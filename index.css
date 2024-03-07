@@ -1,5 +1,22 @@
-.img-bg {
+@font-face {
+    font-family:nort ;
+    src: url(/font/North\ Avellion\ DEMO.ttf);
+}
+
+@font-face {
+    font-family:nathan ;
+    src: url(/font/Nathan\ TTF.ttf);
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-image: url(img/vitor-monthay---mnzh75wZ4-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-
 }
+
+
