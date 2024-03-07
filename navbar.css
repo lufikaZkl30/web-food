@@ -17,23 +17,23 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    pad: 33px 9%;
+    pad: 3px 9%;
     background: rgba(0, 0, 0, 0.418);
 }
 
 .logo {
-    width: 100px;
+    width: 80px;
     padding: 10px;
     margin-left: 20px;
     cursor: pointer;
-    font-family: nathan;
+    font-family: nort;
 }
 
 .navbar ul li {
     list-style: none;
     display: inline-block;
     margin: 20px;
-    font-family: nort;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #fff;
 }
 
@@ -64,7 +64,7 @@ li a:hover {
     font-size: 20px;
     cursor: pointer;
     font-weight: 600;
-    font-family: roma;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(0, 0, 0);
     background-color: white;
 }
