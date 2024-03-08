@@ -28,3 +28,16 @@ h1 {
     font-family: nathan;
     font-size: 80px;
 }
+
+
+.isi {
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+p {
+    position: relative;
+    margin-top: 50%;   
+
+}

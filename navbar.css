@@ -46,7 +46,7 @@
 } 
 
 li a:hover {
-    background: #00000036;
+    background: #000000;
     transition: 0.5s;
     text-decoration: none;
 }
